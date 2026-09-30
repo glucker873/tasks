@@ -1,3 +1,4 @@
+//самое первое дз на гитхаб выложенный
 #include <iostream>
 
 int* memory_alocation(int n) {
